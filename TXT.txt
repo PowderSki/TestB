@@ -1,2 +1,3 @@
 1. Add Origin
 Add From Window
+Add From Mac (W)
